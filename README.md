@@ -1,4 +1,4 @@
-tmux
+tmux (and zsh)
 ====
 
-my tmux configuration
+my tmux + zsh configuration
